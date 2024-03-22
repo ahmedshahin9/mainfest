@@ -2,8 +2,6 @@
 <manifest>
 	<remote  name="gh"
            fetch="https://github.com" />
-	<!-- Removals -->
-	<remove-project name="hardware_Realme" />
 	<!-- Trees -->
 	<project path="device/realme/RMX3261" name="device_realme_RMX3261_lineage_tree" remote="gh" revision="main" />
 	<project path="vendor/realme/RMX3261" name="android_vendor_realme_RMX3261" remote="github" revision="RMX3261" />
