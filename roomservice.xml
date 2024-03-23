@@ -7,7 +7,7 @@
 	<!--Tree -->
 	<project path="device/realme/RMX3261" name="ahmedshahin9/device_realme_RMX3261_lineage_tree" remote="gh" revision="main" />
 	<!--Kernel -->
-	<project path="kernel/realme/RMX3261" name="realme-kernel-opensource/realme_C21Y-AndroidR-kernel-source" remote="gh" revision="master" />
+	<project path="kernel/realme/RMX3261" name="nuuwy0/kernel_realme_c21y" remote="gh" revision="master" />
 	<!--Vendor -->
 	<project path="vendor/realme/RMX3261" name="ahmedshahin9/android_vendor_realme_RMX3261" remote="gh" revision="RMX3261" />
 </manifest>
