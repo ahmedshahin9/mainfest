@@ -5,9 +5,9 @@
             fetch="https://github.com"
             clone-depth="1" />
 	<!--Tree -->
-	<project path="device/realme/RMX3261" name="ahmedshahin9/lineage_device_Realme_RMX3261" remote="gh" revision="Beta" />
+	<project path="device/realme/RMX3261" name="ahmedshahin9/lineage_device_Realme_RMX3261" remote="gh" revision="lineage-RMX3261" />
 	<!--Kernel -->
-	<project path="kernel/realme/RMX3261" name="ahmedshahin9/Device_RMX3261_KERNEL_Alpha" remote="gh" revision="master" />
+	<project path="kernel/realme/RMX3261" name="ahmedshahin9/Device_RMX3261_KERNEL" remote="gh" revision="master" />
 	<!--Vendor -->
 	<project path="vendor/realme/RMX3261" name="ahmedshahin9/android_vendor_realme_RMX3261" remote="gh" revision="fine" />
 </manifest>
