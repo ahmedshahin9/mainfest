@@ -9,5 +9,5 @@
 	<!--Kernel -->
 	<project path="kernel/realme/RMX3261" name="ahmedshahin9/realme-c21y-kernel" remote="gh" revision="master" />
 	<!--Vendor -->
-	<project path="vendor/realme/RMX3261" name="ahmedshahin9/android_vendor_realme_RMX3261" remote="gh" revision="main" />
+	<project path="vendor/realme/RMX3261" name="ahmedshahin9/android_vendor_realme_RMX3261" remote="gh" revision="RMX3261" />
 </manifest>
